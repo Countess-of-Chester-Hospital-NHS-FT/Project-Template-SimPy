@@ -2,9 +2,7 @@
 __pycache__/
 *.pyc
 
-# Exclude the following directories 
-/data/
-/output/
+# Exclude the following directories
 
 # Exclude data file types
 *.doc
