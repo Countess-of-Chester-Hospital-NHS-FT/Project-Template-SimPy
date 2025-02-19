@@ -10,7 +10,7 @@ from app.model import g, Trial
 
 #overwrite g class - so its easy to play around with
 g.ed_inter_visit = (1440 / 38) # convert daily arrivals into inter-arrival time
-g.number_of_nelbeds = 434
+g.number_of_nelbeds = 320
 g.mean_time_in_bed = (225 * 60) # convert hrs to minutes
 g.sd_time_in_bed = (405 * 60) # convert hrs to minutes
 g.sim_duration = (60 * 24 * 60) # convert days into minutes

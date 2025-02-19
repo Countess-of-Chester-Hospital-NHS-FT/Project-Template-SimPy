@@ -7,7 +7,7 @@ from vidigi.utils import VidigiPriorityStore, populate_store # animation package
 
 class g: # global
     ed_inter_visit = 37.7
-    number_of_nelbeds = 325
+    number_of_nelbeds = 320
     mean_time_in_bed = 13500 
     sd_time_in_bed = 24297
     sim_duration = 86400 
