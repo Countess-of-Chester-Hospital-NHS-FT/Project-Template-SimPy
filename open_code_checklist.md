@@ -1,5 +1,5 @@
-# Open Code Checklist
-This checklist is taken from the [NHSE Repo Template](https://github.com/nhsengland/nhse-repository-template/blob/main/OPEN_CODE_CHECKLIST.md)
+# DES model Open Code Checklist
+This checklist is adapted from the [NHSE Repo Template](https://github.com/nhsengland/nhse-repository-template/blob/main/OPEN_CODE_CHECKLIST.md)
 Please use this checklist to document adherence to best practice for published projects.
 
 ## When publishing your code you need to make sure:
