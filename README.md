@@ -22,7 +22,7 @@ __Please update/replace this README file with one relevant to your project__
 # Project Name
 
 ### Status
-This project is currently work in progress / completed / being maintained / not being maintained
+This project is currently / an example for training purposes / work in progress / completed / being maintained / not being maintained
 
 ### About the project
 Short description and purpose / objectives of the project e.g:
@@ -43,7 +43,6 @@ Note: Only public or simulated data are shared in this repository
 ### Project Structure
 
 * The model code is in the model.py file and the app can be launched using launch.py
-* Any notes which may be helpful
 
 ### Built with
 Captured in environment.yml
