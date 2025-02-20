@@ -98,7 +98,7 @@ def animate(logs):
         start_date="2025-02-06 00:00",
         display_stage_labels=False,
         custom_resource_icon='⚬',
-        add_background_image="img/animation_background.png"
+        add_background_image="https://raw.githubusercontent.com/Countess-of-Chester-Hospital-NHS-FT/Project-Template-SimPy/refs/heads/main/app/img/animation_background.png"
     )
 
     return animation#, filtered_position_logs, position_logs, reshaped_logs2, reshaped_logs # hashed out for debugging
